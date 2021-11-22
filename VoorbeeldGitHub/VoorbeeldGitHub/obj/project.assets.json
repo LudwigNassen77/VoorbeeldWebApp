@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leraar\\Desktop\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
+      "projectUniqueName": "C:\\Users\\Leraar\\Desktop\\VoorbeeldWebApp\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
       "projectName": "VoorbeeldGitHub",
-      "projectPath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
+      "projectPath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldWebApp\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
       "packagesPath": "C:\\Users\\Leraar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldGitHub\\VoorbeeldGitHub\\obj\\",
+      "outputPath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldWebApp\\VoorbeeldGitHub\\VoorbeeldGitHub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

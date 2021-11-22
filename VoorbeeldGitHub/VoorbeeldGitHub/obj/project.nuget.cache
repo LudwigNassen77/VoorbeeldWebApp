@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4/+KxEtVQX42fLe4SY1tEu/QhXSkB1DYxBP9vdkU2rlRwzKqwHKi6YfK7D8igLvLaHZgKktGEpXNSj7sp3Gh+g==",
+  "dgSpecHash": "CM/Sn5/n3hYfS1fjpMZaZvVC7ReuHqjyZVT0SmgCA1q5x5o0+dDwJ8T0k/WvsprzmaQXyJQPc6rrXoOzFGSFig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
+  "projectFilePath": "C:\\Users\\Leraar\\Desktop\\VoorbeeldWebApp\\VoorbeeldGitHub\\VoorbeeldGitHub\\VoorbeeldGitHub.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Leraar\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Leraar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
